@@ -2,8 +2,8 @@ title:              Missionary website
 email:              brewer.joshua@missionary.org   
 author:             Joshua Brewer
 
-baseurl:            ""
-url:                ""
+baseurl:            "/missionary-website"
+url:                "https://joshu123-hash.github.io/missionary-website"
 # Social Profiles
 facebook_username:  koshua.brewer
 instagram_username:  j0shua_tree1
