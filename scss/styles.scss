@@ -1,18 +1,8 @@
-// Import variables
-@import "./variables";
+body {
+  font-family: Arial, sans-serif;
+}
 
-// Import Bootstrap
-@import "../../bootstrap/scss/bootstrap";
-
-// Global CSS
-@import "./global";
-
-// Components
-@import "./components/buttons";
-@import "./components/navbar";
-
-// Sections
-@import "./sections/contact";
-@import "./sections/footer";
-@import "./sections/masthead";
-@import "./sections/post";
+img {
+  max-width: 100%;
+  height: auto;
+}
